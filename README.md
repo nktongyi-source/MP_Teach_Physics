@@ -1,4 +1,2 @@
 # MP_Teach_Physics
-All tutorial notes from MP will be uploaded here. 
-Notes from 'Wave' to 'Gravitation' are difficult contents in Physics Olympiad and year 1 physics, so the notes aim to build solid foundations of concepts. Notes staring from 'Technique 1' are the general techniques concluded by MP from the questions in 物理学难题集萃. Hopefully you can find it useful!
-Follow MP's Instagram account: @mp_teach_phy.
+All the tutorial notes from MP will be uploaded here. The notes from 'Wave' through 'Gravitation' cover some of the trickiest stuff in Physics Olympiad and first-year physics, so they're meant to help you build a solid conceptual foundation. The ones starting from 'Technique 1' are general problem-solving strategies that MP picked up from working through 物理学难题集萃. Hope you find them useful! And follow MP on Instagram: @mp_teach_phy.
